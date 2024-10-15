@@ -83,4 +83,8 @@ The backend exposes the following API endpoint:
       }
     }
     ```
+## Output Images
+![input](https://github.com/user-attachments/assets/b47855f0-0834-4bd1-96b7-592c5b047c4d)
+![output](https://github.com/user-attachments/assets/3c4414ba-fa15-48dd-9d29-307cc52167c0)
+
 
